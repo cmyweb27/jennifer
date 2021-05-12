@@ -16,7 +16,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "semantic-ui-css": "^2.4.1",
-    "swiper": "^5.4.1"
+    "swiper": "^6.5.1"
   },
   "homepage": "https://cmyweb27.github.io/jennifer",
   "scripts": {
